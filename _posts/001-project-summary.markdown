@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to 3D Learning with AR!"
-date:   2018-08-23 19:50:00 -0600
 categories:
 ---
 Welcome to my blog! I'll be taking part in a CREU research project this semester, and this is where you can find updates. 
