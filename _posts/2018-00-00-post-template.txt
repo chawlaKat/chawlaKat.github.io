@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Blank Title"
+categories:
+---
+
+Sample text
+
