@@ -15,11 +15,3 @@ However. I also talked about dragging and dropping .tiff files onto the objects,
 In addition to the progress on the model composed of cross sections, I also created a structure-based model. Using Unity GameObjects, specifically spheres and cylinders, I built a (rudimentary) representation of the brain. In this model, the cerebrum and cerebellum are both shown as spheres, and the brainstem is a cylinder. This will allow interaction in the 3D sense, instead of only relying on stacked 2D-style sections. Next, I will create a more sophisticated model by creating custom object shapes for each subsection of the brain, on the level of the temporal and occipital lobes. 
 
 And so, onwards we go, my friends.
-
-
-Reference:
-.stl to .obj converter
-http://www.greentoken.de/onlineconv/
-
-brain anatomy
-https://mayfieldclinic.com/pe-anatbrain.htm
