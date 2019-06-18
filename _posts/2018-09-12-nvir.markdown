@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "NIVR"
+categories:
+---
+Dr. Minear, the head of the psychology team for this project, has provided us with a lovely paper. Here's the summary:
+
+A program called NIVR, or Neuro Imaging in Virtual Reality, explores multiple techniques for modelling the brain in a VR environment, specifically Unity for the HTC Vive, with support from Autodesk 3DS Max. The value is that it provides new techniques for viewing such 3d information, and for dealing with the massive amount of data involved. This paper is from IEEE (VR), 2017. 
+
+This application offers four techniques, as described below.
+
+Volumetric MRI: The user can use the Vive controller to slice into a virtual brain, in any direction, showing an MRI scan at that location.
+
+Slice-based Tractography: The user can view slices of nerves along a front-back, left-right, and up-down axis. Users can walk along the front-back and left-right axes, and use the Vive controller to ascend and descend. 
+
+Segmented Neurological Surfaces: This technique presents the brain in movable chunks, allowing a "digital dissection" experience.
+
+Near Field Rendering: By only rendering the data close to the user, the difficulty of rendering huge amounts of data at once is circumvented.
+	

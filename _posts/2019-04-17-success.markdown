@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "SUCCESS"
+categories:
+---
+Welcome, gentle readers!
+
+It's alive! IT'S ALIIIIIVE!!!!
+
+By which I mean, I can pick up things. I'm very excited.
+
+Seriously though, the "grab" function works! Rajiv was able to help me with the Vive -- apparently I didn't try all of the ports, because the one I missed was the one connected to the GPU, which made the difference.
+
+I found out how to map the controller to scripts to define the button behaviors, as well as how to make it trigger a collision. And then I picked up my test cube. And then, and then, finally, after an entire semester, I finally picked up a brain slice. I could turn it around to see the MRI images, and it was glorious. Glorious, I tell you.
+
+I still need to implement colliders for all of the slices -- Raylyn's been working on that, but she has had trouble with actually sharing the project. So, I'll give her a little more time on that, but if I don't hear back by next week I'll get them set up myself.
+
+And onwards we go, my friends.
