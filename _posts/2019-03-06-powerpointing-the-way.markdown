@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Template"
+title:  "PowerPoint-ing the Way"
 categories:
 ---
 Welcome, gentle readers!

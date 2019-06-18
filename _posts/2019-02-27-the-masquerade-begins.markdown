@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Template"
+title:  "The 'Mask'-querade Begins"
 categories:
 ---
 Welcome, gentle readers!

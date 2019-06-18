@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Template"
+title:  "Successful Sprites and the Question of Corners"
 categories:
 ---
 Welcome, gentle readers!

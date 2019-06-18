@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Template"
+title:  "Spring Break"
 categories:
 ---
 Welcome, gentle readers!

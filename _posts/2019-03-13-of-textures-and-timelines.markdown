@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Template"
+title:  "Of Textures and Timelines"
 categories:
 ---
 Welcome, gentle readers!

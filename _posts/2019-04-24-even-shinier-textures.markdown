@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Template"
+title:  "Even Shinier Textures"
 categories:
 ---
 Welcome, gentle readers!

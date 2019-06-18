@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post Template"
+title:  "Insight into Invisibility"
 categories:
 ---
 Welcome, gentle readers!
